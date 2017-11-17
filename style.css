@@ -1,0 +1,47 @@
+#header {
+  text-align: right;
+}
+
+#container {
+  text-align: center;
+  margin-top: 10%;
+}
+
+input {
+  width: 35%;
+  margin: 1em;
+  height: 2.5em;
+  border: 1px solid #3cb371;
+  padding: 0 1em;
+}
+
+.sign {
+  background-color: #4285F4;
+  height: 2em;
+  border: 0;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 15px;
+}
+
+.jhp {
+  background-color: #e3e3e3;
+  border: 0;
+  width: 20%;
+  height: 2em;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  margin: 1em auto;
+  width: 98%;
+}
+
+#left {
+  float: left;
+}
+
+#right {
+  float: right;
+}
